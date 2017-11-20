@@ -109,11 +109,11 @@
           "_name": "map1",
           "_customHTML": "<section class=\"map1\" group=\"Maps\">\n\n    <mbr-parameters>   \n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"map\" title=\"Map\" name=\"googleMap\" place-id=\"ChIJiziA7WPjpEAROQumtxdxrJg\" value=\"Balchik Palace\">   \n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"google-map\" mbr-map=\"googleMap\">\n    </div>\n</section>",
           "_cid": "qByGx1HH9Z",
+          "_anchor": "map1-11",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "map1-11"
+          "_params": {}
         },
         {
           "_styles": {
@@ -374,7 +374,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/garden-1-800x599.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -408,7 +408,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/garden-river-909x644.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
