@@ -329,14 +329,14 @@
           "_params": {
             "slides__autoplay": true,
             "slides__autoplayInterval": "5000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/garden-1-800x599.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": true,
-                "showTitle": true,
+                "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
