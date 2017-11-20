@@ -327,13 +327,13 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": "8000",
             "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/garden-1-800x599.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -367,7 +367,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/garden-river-909x644.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
