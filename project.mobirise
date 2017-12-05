@@ -363,7 +363,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/palace-2-1024x768.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": false,
@@ -380,7 +380,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/nympheum-2-1024x694.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
